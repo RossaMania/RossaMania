@@ -5,10 +5,10 @@
 
 Right now, I am working on making clones of apps to figure out how they work, and then try to use those clones to get ideas to create my own apps and problem solve. 
 For example: 
-- Right now I am working on a IMDb clone with a tutorial.
+- Right now I am working on a IMDb clone with the help of a tutorial.
 - Then I plan on using that to get ideas about an app I'd like to make about Tom Cruise movies. "Does this movie feature Tom Cruise?" 
 
-I am also trying to find small JavaScript projects or challenges to work on to further develop my problem-solving skills.
+I am also trying to find small JavaScript projects or challenges to work on to further develop my problem-solving skills. If you have any ideas or links, please let me know!
 
 I am trying to improve my skills with MongoDB and Node.  
 
