@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ### My name is Ross.
 ### I am an aspiring developer.
 
 Right now, I am working on making clones of apps to figure out how they work, and then try to use those clones to get ideas to create my own apps and problem solve. 
 For example: 
-- Right now I am working on a full stack eCommerce app.
+- I am working on a full stack eCommerce app.
 
 I am also trying to find small JavaScript projects or challenges to work on to further develop my problem-solving skills. If you have any ideas or links, please let me know!
 
