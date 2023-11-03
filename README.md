@@ -1,7 +1,7 @@
 ### My name is Ross.
 ### I am an aspiring developer.
 
-Right now, I am working on making clones of apps to figure out how they work, and then using those clones to get ideas to create my own apps. 
+I am working on making clones of apps to figure out how they work, and then using those clones to get ideas to create my own apps. 
 For example: 
 - I completed a simple iMDB clone using the TMDB API.
 - I completed a Cruise r Nah app that tells you if a movie title is a movie that Tom Cruise was a part of.
