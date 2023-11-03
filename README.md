@@ -1,16 +1,16 @@
-### My name is Ross.
-### I am an aspiring developer.
+## My name is Ross.
+## I am an aspiring developer.
 
-I am working on making clones of apps to figure out how they work, and then using those clones as inspiration to create my own apps!
-For example: 
+### What I've done so far.
 - I completed a simple iMDB clone using the TMDB API.
 - I completed a Cruise r Nah app that tells you if a movie title is a movie that Tom Cruise was a part of.
 - I completed an eCommerce app.
 
-I am also looking for small JavaScript projects or challenges to further develop my problem-solving skills.
-If you have any ideas or links, please let me know!
+### What I'm working on now.
+- I am working on MERN stack projects.
+- I am looking for small JavaScript projects or challenges to further develop my problem-solving skills.
 
-Fun facts: 
+### Fun facts: 
 - I've never been married, but I have had a kidney stone. 
 - I am a recovering cinephile, but still love movies!
 - I play Nintendo Switch.
