@@ -12,7 +12,7 @@ If you have any ideas or links, please let me know!
 
 Fun facts: 
 - I've never been married, but I have had a kidney stone. 
-- I am a recovering cinephile, but still a movie fan. 
+- I am a recovering cinephile, but still love movies!
 - I play Nintendo Switch.
 
 ![ThatsRoss](https://github.com/RossaMania/RossaMania/assets/98660173/fdce143e-caa1-4cf0-8280-db112facebb0)
