@@ -7,7 +7,7 @@ For example:
 - I completed a Cruise r Nah app that tells you if a movie title is a movie that Tom Cruise was a part of.
 - I completed an eCommerce app.
 
-I am also trying to find small JavaScript projects or challenges to work on to further develop my problem-solving skills.
+I am also looking for small JavaScript projects or challenges to further develop my problem-solving skills.
 If you have any ideas or links, please let me know!
 
 Fun facts: 
