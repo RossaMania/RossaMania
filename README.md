@@ -1,6 +1,9 @@
 ## My name is Ross.
 ## I am an aspiring developer.
 
+### Tools
+<img src="https://github.com/RossaMania/RossaMania/blob/main/vscode-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/chrome-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/github-original-wordmark-icon.svg" width="50" height="50" />
+
 ### What I've done so far.
 - I completed a simple iMDB clone using the TMDB API.
 - I completed a Cruise r Nah app that tells you if a movie title is a movie that Tom Cruise was a part of.
