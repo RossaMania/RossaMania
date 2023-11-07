@@ -1,13 +1,6 @@
 ## My name is Ross.
 ## I am an aspiring developer.
 
-### Tools
-<img src="https://github.com/RossaMania/RossaMania/blob/main/vscode-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/chrome-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/github-original-wordmark-icon.svg" width="50" height="50" />
-
-### Frameworks
-<img src="https://github.com/RossaMania/RossaMania/blob/main/bootstrap-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/tailwindcss-original-wordmark-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/react-original-wordmark-icon.svg" width="50" height="50" />
-
-
 ### What I've done so far.
 - I completed a simple iMDB clone using the TMDB API.
 - I completed a Cruise r Nah app that tells you if a movie title is a movie that Tom Cruise was a part of.
@@ -16,6 +9,13 @@
 ### What I'm working on now.
 - I am working on MERN stack projects.
 - I am looking for small JavaScript projects or challenges to further develop my problem-solving skills.
+
+### Tools
+<img src="https://github.com/RossaMania/RossaMania/blob/main/vscode-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/chrome-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/github-original-wordmark-icon.svg" width="50" height="50" />
+
+### Frameworks
+<img src="https://github.com/RossaMania/RossaMania/blob/main/bootstrap-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/tailwindcss-original-wordmark-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/react-original-wordmark-icon.svg" width="50" height="50" />
+
 
 ### Fun facts: 
 - I've never been married, but I have had a kidney stone. 
