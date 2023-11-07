@@ -11,10 +11,10 @@
 - I am looking for small JavaScript projects or challenges to further develop my problem-solving skills.
 
 ### Tools
-<img src="https://github.com/RossaMania/RossaMania/blob/main/vscode-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/chrome-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/github-original-wordmark-icon.svg" width="50" height="50" />
+<img src="https://github.com/RossaMania/RossaMania/blob/main/vscode-original-icon.svg" width="100" height="100" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/chrome-original-icon.svg" width="100" height="100" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/github-original-wordmark-icon.svg" width="100" height="100" />
 
 ### Frameworks
-<img src="https://github.com/RossaMania/RossaMania/blob/main/bootstrap-original-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/tailwindcss-original-wordmark-icon.svg" width="50" height="50" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/react-original-wordmark-icon.svg" width="50" height="50" />
+<img src="https://github.com/RossaMania/RossaMania/blob/main/bootstrap-original-icon.svg" width="100" height="100" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/tailwindcss-original-wordmark-icon.svg" width="100" height="100" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/react-original-wordmark-icon.svg" width="100" height="100" />
 
 
 ### Fun facts: 
