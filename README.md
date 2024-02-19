@@ -19,7 +19,7 @@
 ### Fun facts: 
 - I've never been married, but I have had a kidney stone. 
 - I am a recovering cinephile, but still love movies! The last movie I saw was "Mortal Kombat: Scorpion's Revenge"!
-- I play Nintendo Switch. Currently, I'm playing "Batman: Arkham Trilogy". I have 100% completed "Arkham Asylum" on Normal, and am playing through "Arkham City!
+- I play Nintendo Switch. Currently, I'm playing "Batman: Arkham Trilogy". I have 100% completed "Arkham Asylum" on Normal, and am playing through "Arkham City"!
 
 ![ThatsRoss](https://github.com/RossaMania/RossaMania/assets/98660173/fdce143e-caa1-4cf0-8280-db112facebb0)
 
