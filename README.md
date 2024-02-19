@@ -2,13 +2,11 @@
 ## I am an aspiring developer.
 
 ### What I've done so far.
-- I completed a Pac-Man game that uses HTML, vanilla CSS, and vanilla JavaScript.
-- I completed 
-- I completed 
+- I completed a Pac-Man game that uses HTML, vanilla CSS, and vanilla JavaScript from a course on Udemy!
+- I completed two SQL courses on Udemy! "SQL for Beginners: Become an SQL Expert" and "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)".
 
 ### What I'm working on now.
 - I am working on full stack projects.
-- I am looking for small JavaScript projects or challenges to further develop my problem-solving skills.
 
 ### Tools
 <img src="https://github.com/RossaMania/RossaMania/blob/main/vscode-original-icon.svg" width="100" height="100" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/chrome-original-icon.svg" width="100" height="100" /> <img src="https://github.com/RossaMania/RossaMania/blob/main/github-original-wordmark-icon.svg" width="100" height="100" />
