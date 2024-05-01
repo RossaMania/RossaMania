@@ -2,10 +2,10 @@
 ## I am an aspiring developer.
 
 ### What I've done so far.
-- I completed a Pac-Man game that uses HTML, vanilla CSS, and vanilla JavaScript from a course on Udemy!
-- I completed two SQL courses on Udemy! "SQL for Beginners: Become an SQL Expert" and "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)".
+- I completed another course on Udemy! "C# .NET Core 8 with MS SQL Complete Beginner To Master 2024"
 
 ### What I'm working on now.
+- I am working on learning C#!
 - I am working on full stack projects.
 - I am looking for a job! Full-time, part-time, internship!
 
