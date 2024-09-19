@@ -1,5 +1,5 @@
 ## My name is Ross.
-## I am an aspiring developer.
+## I am a software developer.
 
 ### What I've done so far.
 - I completed another course on Udemy! "C# .NET Core 8 with MS SQL Complete Beginner To Master 2024"
