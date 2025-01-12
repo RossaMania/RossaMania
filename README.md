@@ -5,6 +5,7 @@
 - I completed another course on Udemy! "C# .NET Core 8 with MS SQL Complete Beginner To Master 2024"
 
 ### What I'm working on now.
+- I am working on my CCNA at Tulsa Tech until May 2025!
 - I am learning C#!
 - I am working on full stack projects.
 - I am looking for a job! Full-time, part-time, internship!
